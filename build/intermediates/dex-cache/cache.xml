@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcf721c3e9f5e8e98a1155c246f9588953d969ba">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33381f327a89fa1f6950a26e34ead037d00d0bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/7ec9ae6de8d0f763ce6e0ed44bcf344e1d118ac2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fd999862330e58fa52ef65b90a0b272344fb86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/f7aa67a2cf7d33ac52183074cfcf342d303afe33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_701c85b71c14a8562d7e7fa76977a8378c4996af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_204fdd075213b3f461542fdea41f6155e3c9054d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/ecc83dc917cd7bceff0dfcb3036edccf04230da8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1cc1314da09267a115ec8d8c1542c17810a3c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/f6e16cc8bdac43b0dc37c13f3a0fd78dda05c3e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32cc6d3357b2f103eb1d0b65c17668fcd63c99ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/d70b297b68658ade29416ce8d2aad2feb00c6549/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d022e2e3e0af90298fb7647ef2b101c46411b254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/df0eae3ba2f97fcf3cbcccc767e67fb81174452a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe91a205d3c7d8b8a1036898e18a7b0f1818f1d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/820ed5903bf5d8871bcc85337625f941e7b53c25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_229cbf9fb1e477ae12898722b2403065e1b76f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_b71bdaaf67a5aa4680b98489b43459a3b27eeedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/4418177ff5784030261f3dd4951441e0d9e2a891/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ead4081beb562af5b3f58926bb49541779733a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adnan/.android/build-cache/4da69ff7565bf4837bbccd9bdc7360f9a43f8cc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Adnan/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc384d60679c8b63d85b2c9c17205d10f2427a05/classes.dex" />
+    </item>
+
+</items>
